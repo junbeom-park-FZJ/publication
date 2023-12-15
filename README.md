@@ -14,64 +14,19 @@ My experience began from material synthesis (carbon nanotube fiber via floating 
 
 ## Research experience
 ### Analysis of reaction mechanisms via in-situ TEM
-
-<details><summary> Visualization of Zn dendritic growth by electrodeposition via image processing (in preparation)</summary>
-<img src='' width=700>
-</details>
-
-<details><summary> Tracking the growth Cu nanoparticles during electrodeposition cycles via image processing (in preparation)
-</summary>
-<img src='' width=700>
-</details>
-
-<details><summary> Technical development to obtain high resolution liquid phase in-situ TEM results [[ref]](https://doi.org/10.1093/jmicro/dfad023) </summary>
-<img src='' width=700>
-</details>
-
-<details><summary> FIB-SEM based sample preparation for in-situ TEM experiment
-</summary>
-<img src='' width=700>
-</details>
-
-<details><summary> Catalytic activity and agglomeration of catalyst particles near reaction temperature (around 1000 oC) [[ref]](https://doi.org/10.1016/j.carbon.2020.11.065)
-</summary>
-<img src='' width=700>
-</details>
+- Visualization of Zn dendritic growth by electrodeposition via image processing (in preparation)
+- Tracking the growth Cu nanoparticles during electrodeposition cycles via image processing (in preparation)
+- Technical development to obtain high resolution liquid phase in-situ TEM results [link](https://doi.org/10.1093/jmicro/dfad023)
+- Catalytic activity and agglomeration of catalyst particles near reaction temperature (around 1000 oC) [link](https://doi.org/10.1016/j.carbon.2020.11.065)
 
 ### Analysis of structure and mechanical properties of material
+- Intermediate formation of LATP/LFP (solid electrode/electrolyte) during sintering [link](https://doi.org/10.1002/smll.202200266)
+- Arrangement of graphitic structure of PAN-based carbon fiber during carbonization [link](http://dx.doi.org/10.1021/acsami.1c13541)
+- Structural evolution of industry-scaled carbon nanotube yarn during densification [link](http://doi.org/10.1016/j.carbon.2020.10.068)
+- Mathematical model to relate between hierarchical structure and mechanical behavior of carbon nanotube fiber [link](https://doi.org/10.1016/j.carbon.2019.05.077)
+- The effect of hierarchical structure on linear density measurement [link](https://doi.org/10.1039/C6RA26607J)
 
-<details><summary> Intermediate formation of LATP/LFP (solid electrode/electrolyte) during sintering [[ref]](https://doi.org/10.1002/smll.202200266)
-</summary>
-<img src='' width=700>
-</details>
-
-<details><summary> Arrangement of graphitic structure of PAN-based carbon fiber during carbonization [[ref]](http://dx.doi.org/10.1021/acsami.1c13541)
-</summary>
-<img src='' width=700>
-</details>
-
-<details><summary> Structural evolution of industry-scaled carbon nanotube yarn during densification [[ref]](http://doi.org/10.1016/j.carbon.2020.10.068)
-</summary>
-<img src='' width=700>
-</details>
-
-<details><summary> Mathematical model to relate between hierarchical structure and mechanical behavior of carbon nanotube fiber [[ref]](https://doi.org/10.1016/j.carbon.2019.05.077)
-</summary>
-<img src='' width=700>
-</details>
-
-<details><summary> The effect of hierarchical structure on linear density measurement [[ref]](https://doi.org/10.1039/C6RA26607J)
-</summary>
-<img src='' width=700>
-</details>
-
-### Fabrication of carbon nanotube fiber via floating catalyst method [[ref]](https://doi.org/10.1021/acsanm.1c00248)
-
+### Fabrication of carbon nanotube fiber via floating catalyst method [link](https://doi.org/10.1021/acsanm.1c00248)
 - Production parameters: Ratio of reactant, Temperature, Gas composition, Spinning rate
 - Qualification methods: Strength (Tensile test), Morphology (TEM, SEM), Crystallinity (Raman analysis)
-
-<details><summary> Carbon nanotube fiber fabrication process video
-</summary>
-<img src='' width=700>
-</details>
 
