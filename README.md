@@ -1,7 +1,7 @@
 ## Dr. Junbeom Park (j.park at fz-juelich.de)
 In-situ Electron Microscopy group \
 Low Temperature Water Electrolysis department \
-Fundamental Electrochemistry (IEK-9) \
+Institute of Energy and Climate - Fundamental Electrochemistry (IEK-9) \
 Forschungszentrum Juelich GmbH, Germany \
 [Google scholar](https://scholar.google.com/citations?user=WXKca60AAAAJ&hl=en) | 
 [ORCID](https://orcid.org/0000-0003-2548-2985) | 
@@ -15,7 +15,7 @@ My experience began from material synthesis (carbon nanotube fiber via floating 
 ## Research experience
 ### Analysis of reaction mechanisms via in-situ TEM
 - Visualization of Zn dendritic growth by electrodeposition via image processing (in preparation)
-- Tracking the growth Cu nanoparticles during electrodeposition cycles via image processing (in preparation)
+- Tracking the growth Cu nanoparticles during electrodeposition cycles via image processing [link](https://doi.org/10.1002/adem.202302146)
 - Technical development to obtain high resolution liquid phase in-situ TEM results [link](https://doi.org/10.1093/jmicro/dfad023)
 - Catalytic activity and agglomeration of catalyst particles near reaction temperature (around 1000 oC) [link](https://doi.org/10.1016/j.carbon.2020.11.065)
 
